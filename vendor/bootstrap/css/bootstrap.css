@@ -4842,7 +4842,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #74adc1;
   border-radius: 0.3rem;
 }
 
@@ -6094,7 +6094,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #39C5BB  !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
